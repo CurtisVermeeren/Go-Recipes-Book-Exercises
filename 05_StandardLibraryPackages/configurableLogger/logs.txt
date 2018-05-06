@@ -1,0 +1,12 @@
+INFO: 2018/04/23 10:37:31 main.go:98: Counter value is: 0
+INFO: 2018/04/23 10:37:31 main.go:98: Counter value is: 1
+INFO: 2018/04/23 10:37:31 main.go:98: Counter value is: 2
+INFO: 2018/04/23 10:37:31 main.go:98: Counter value is: 3
+INFO: 2018/04/23 10:37:31 main.go:98: Counter value is: 4
+INFO: 2018/04/23 10:37:31 main.go:98: Counter value is: 5
+INFO: 2018/04/23 10:37:31 main.go:98: Counter value is: 6
+INFO: 2018/04/23 10:37:31 main.go:98: Counter value is: 7
+INFO: 2018/04/23 10:37:31 main.go:98: Counter value is: 8
+INFO: 2018/04/23 10:37:31 main.go:98: Counter value is: 9
+WARNING: 2018/04/23 10:37:31 main.go:100: The counter variable is not being used
+ERROR: 2018/04/23 10:37:31 main.go:90: Sample Error
